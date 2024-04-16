@@ -1,18 +1,21 @@
 /* Color Styles */
-
-
+body {
+    background-color:rgb(230, 230, 250);
+}
 /* Font Styles */
-.schoolbell-regular {
+h1, h2 {
     font-family: "Schoolbell", cursive;
     font-weight: 400;
     font-style: normal;
   }
 
-.homemade-apple-regular {
+h3 {
+    color:#6e648d;
     font-family: "Homemade Apple", cursive;
     font-weight: 400;
     font-style: normal;
   }
-    
 
-/* Font Size */
+img {
+    background-color: rgba(199,185,223, 0.5) 
+}
