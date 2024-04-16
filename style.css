@@ -1,29 +1,37 @@
 body {
+    /* I wanted to compliment the potion's color scheme in the backdrop for the website */
     background-color:rgb(230, 230, 250);
 }
 
 h1, h2 {
+    /* Loved the playfulness of this font! */
     font-family: "Schoolbell", cursive;
     font-weight: 400;
     font-style: normal;
   }
 
 h3 {
+    /* This color is on theme */
     color:#6e648d;
+    /* The font looks playful as well but also has a fantasy element to it */
     font-family: "Homemade Apple", cursive;
     font-weight: 400;
     font-style: normal;
+    /* Playing around with different font sizes here */
     font-size: 18px;
   }
 
 h3 + p {
+    /* Playing around with different font sizes here */
     font-size: 18.8px;
 }
 
 img {
+    /* I think the transparent background begin the image adds more dimension to the website */
     background-color: rgba(199,185,223, 0.5) 
 }
 
 footer {
+    /* Usually the copyright is the smallest size on a website so I added it to my footer as well! */
     font-size: 16px;
 }
